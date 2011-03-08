@@ -1,4 +1,4 @@
 [submodule "syn"]
 	path = syn
-	url = git@github.com:robertheessels/syn.git
+	url = git@github.com:longtermresults/syn.git
 	update = merge
