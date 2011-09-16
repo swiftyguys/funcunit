@@ -99,3 +99,4 @@ test("Accessing the window", function(){
 test("Accessing the document", function(){
 	ok(S(S.window.document).width()> 20, "I can get the document's width")
 })
+
